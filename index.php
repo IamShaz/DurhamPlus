@@ -39,9 +39,9 @@ the software.
 ********************************************************************** -->  
       
         <div id="home-slider" class="fotorama" data-width="100%" data-height="80%" data-minwidth="200" data-ratio="800/400" data-loop="true" data-fit="cover" data-autoplay="3000" data-transition="dissolve" data-transition-duration="2500" data-arrows="false">
-            <img src="images/image1.jpg" width="800" height="400" alt="image1" title="Image One">
-            <img src="images/image2.jpg" width="800" height="400" alt="image2" title="Image Two">
-            <img src="images/image3.jpg" width="800" height="400" alt="image3" title="Image Three">
+            <img src="images/slider1.jpg" width="800" height="400" alt="image1" title="Image One">
+            <img src="images/slider2.jpg" width="800" height="400" alt="image2" title="Image Two">
+            <img src="images/slider3.jpg" width="800" height="400" alt="image3" title="Image Three">
         </div>
 
 <?php 
