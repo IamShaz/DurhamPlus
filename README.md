@@ -1,7 +1,5 @@
 Author: Shazin
 
-Currently available for hire. Please contact shazin.rr@gmail.com. 
-
 Description: This website was created for a client in order to complete the webmaster program at Seneca College. 
 
 List of file names: 
