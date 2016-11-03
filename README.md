@@ -1,8 +1,6 @@
 Author: Shazin
 
-Description: This website was created for a client in order to complete the webmaster program at Seneca College. 
-
-A client website for a catering company using PHP to create three functional forms.
+Description: A client website for a catering company using PHP to create three functional forms.
 
 List of file names: 
 -	about.php
